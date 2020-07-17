@@ -12,6 +12,7 @@ As of today endoscopes have been only used as a keyhole to look inside the human
 [Download in pdf format](http://www.vision.ee.ethz.ch/en/publications/papers/proceedings/eth_biwi_00381.pdf)
 
 
+
 ```latex
 
 @InProceedings{eth_biwi_00381,
